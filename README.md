@@ -12,8 +12,10 @@ Atualmente, sou **Analista de Serviços de TI**, onde sou responsável por resol
 
 ## 🌱 Atualmente estou aprendendo...
 - **Versionamento de código** (com Git e GitHub), para melhorar a colaboração em projetos e o controle de versões.
-**Lógica de programação**: Fortalecendo minha base de raciocínio lógico para resolver problemas de programação de forma mais estruturada e eficiente.
-- **JavaScript**.
+- **Lógica de Programação**: Fortalecendo minha base de raciocínio lógico para resolver problemas de programação de forma mais estruturada e eficiente.
+- **Lógica de Programação: Praticando com Desafios**: Aprofundando o aprendizado de lógica por meio de desafios práticos e resolução de problemas.
+- **JavaScript**: Aprimorando minhas habilidades em programação e interação com a web.
+
 
 ## 👯 Estou procurando colaborar em...
 - Projetos de **desenvolvimento web** e **automação de processos**.
