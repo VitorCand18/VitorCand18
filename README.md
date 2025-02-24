@@ -16,7 +16,6 @@ Atualmente, sou **Analista de Serviços de TI**, onde sou responsável por resol
 - **Lógica de Programação: Praticando com Desafios**: Aprofundando o aprendizado de lógica por meio de desafios práticos e resolução de problemas.
 - **JavaScript**: Aprimorando minhas habilidades em programação e interação com a web.
 
-
 ## 👯 Estou procurando colaborar em...
 - Projetos de **desenvolvimento web** e **automação de processos**.
 - **Análise de dados**.
@@ -65,14 +64,25 @@ Atualmente, sou **Analista de Serviços de TI**, onde sou responsável por resol
 
 ---
 
-<div>
-  <a href="https://github.com/VitorCand18">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCand18&layout=compact&langs_count=7&theme=dracula"/>
-    <!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorCand18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>-->
-</div>
+## 🚀 Projetos
+
+Aqui estão alguns dos meus projetos desenvolvidos recentemente:
+
+1. **[Jogo Número Secreto](https://jogonumerosecreto-three-pearl.vercel.app/)** - Jogo simples de adivinhação de números.
+2. **[Sortear Número Aleatório](https://sortear-num-aleatorio.vercel.app/)** - Sorteio de números aleatórios.
+3. **[Carrinho de Compras](https://carrinho-compras-six-pied.vercel.app/)** - Implementação de um carrinho de compras funcional.
+4. **[Site de Ingressos](https://site-ingressos-kohl.vercel.app/)** - Página de vendas de ingressos online.
+5. **[Aluguel de Games](https://aluguel-de-games-ivory.vercel.app/)** - Sistema de aluguel de jogos online.
+6. **[Amigo Secreto](https://amigo-secreto-omega-ruby.vercel.app/)** - Sorteio e gerenciamento de amigos secretos.
 
 ---
 
+<div>
+  <a href="https://github.com/VitorCand18">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCand18&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+---
 
 Se você quiser conversar sobre qualquer um desses tópicos ou colaborar em algum projeto, não hesite em me chamar! 😊
